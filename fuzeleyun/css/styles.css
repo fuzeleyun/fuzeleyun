@@ -1,0 +1,16 @@
+/* ... existing code ... */
+.why-choose-us .why-content h2 {
+    font-size: 36px;
+    margin-bottom: 50px;
+}
+
+.why-choose-us .why-features .feature h3 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.why-choose-us .why-features .feature p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+/* ... existing code ... */
